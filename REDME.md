@@ -17,7 +17,6 @@ hESC1: Human embryonic stem cells at 5 time points, comprising 1,530 cells (acce
 hESC2: Human embryonic stem cells at 6 time points, comprising 758 cells (accession number: GSE75748).
 
 The benchmark data and the preprocessed gene expression matrices for these datasets can be downloaded from this project repository.
-We downloaded the single-cell mouse pancreatic dataset with accession number GSE87375, identified the top-ranked predicted klf10 and klf11, constructed gene pairs associated with them, and performed gene causal relationship analysis using MB-STAP.
 
 ## TASK 1, Evaluating MB-STAP on four datasets
 
