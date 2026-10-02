@@ -16,7 +16,7 @@ mESC2: Mouse embryonic stem cells at 9 time points, comprising 3,456 cells (acce
 hESC1: Human embryonic stem cells at 5 time points, comprising 1,530 cells (accession number: E-MTAB-3929).
 hESC2: Human embryonic stem cells at 6 time points, comprising 758 cells (accession number: GSE75748).
 
-The benchmark data and the preprocessed gene expression matrices for these datasets can be downloaded from this project repository.
+The benchmark data and the preprocessed gene expression matrices for these datasets can be downloaded from this project repository (https://sourceforge.net/projects/mb-stap/files/).
 
 ## TASK 1, Evaluating MB-STAP on four datasets
 
